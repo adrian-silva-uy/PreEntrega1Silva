@@ -8,6 +8,7 @@ const misProductos = [
     descripción: "Yerba mate Armiño SUAVE",
     precio: 205,
     img: "../img/armiño.jpg",
+    stock:"10"
   },
   {
     id: "1002",
@@ -18,6 +19,7 @@ const misProductos = [
     descripción: "Azúcar blanco refinado",
     precio: 48,
     img: "../img/azucar.jpg",
+    stock:"10"
   },
   {
     id: "1003",
@@ -28,6 +30,7 @@ const misProductos = [
     descripción: "Fideo al huevo Adria moña",
     precio: 61,
     img: "../img/fideo-adria-moñas.jpg",
+    stock:"10"
   },
   {
     id: "2001",
@@ -38,6 +41,7 @@ const misProductos = [
     descripción: "Black & Decker microondas de acero inoxidable con plato giratorio, 700 W, 0.7 pies cúbicos",
     precio: 4100,
     img: "../img/microwave.jpg",
+    stock:"10"
   },
   {
     id: "2002",
@@ -48,6 +52,7 @@ const misProductos = [
     descripción: "Licuadora Philips 500W jarra 1,25L",
     precio: 4100,
     img: "../img/licuadora-philips-500w.jpg",
+    stock:"10"
   },
   {
     id: "2003",
@@ -59,6 +64,7 @@ const misProductos = [
       "Cocina James C-225 G2 a gas/eléctrica 4 hornallas acero inoxidable 220V puerta ciega",
     precio: 23900,
     img: "../img/cocina-combianda-james.jpg",
+    stock:"10"
   },
   {
     id: "3001",
@@ -69,6 +75,7 @@ const misProductos = [
     descripción: "Juego de comedor en madera rústico",
     precio: 16500,
     img: "../img/juego-de-comedor-madera.jpg",
+    stock:"10"
   },
   {
     id: "3002",
@@ -79,6 +86,7 @@ const misProductos = [
     descripción: "Cama marinera en madera rústico, color natural",
     precio: 8900,
     img: "../img/cama-marinera-madera-natural.jpg",
+    stock:"10"
   },
   {
     id: "3003",
@@ -89,6 +97,7 @@ const misProductos = [
     descripción: "Sofá Alexis de 2 cuerpos, color natural",
     precio: 32900,
     img: "../img/butacas-2-cuerpos.jpg",
+    stock:"10"
   },
   {
     id: "4001",
@@ -99,6 +108,7 @@ const misProductos = [
     descripción: "Yumbo GS-125 II LED 4T",
     precio: 68700,
     img: "../img/yumbo-gs125.jpg",
+    stock:"10"
   },
   {
     id: "4002",
@@ -109,6 +119,7 @@ const misProductos = [
     descripción: "Yamaha Crypton-110 4T",
     precio: 61500,
     img: "../img/yamaha-crypton.jpg",
+    stock:"10"
   },
   {
     id: "4003",
@@ -119,6 +130,7 @@ const misProductos = [
     descripción: "Honda XR-250 Tornado 4T",
     precio: 121500,
     img: "../img/Honda-XR250-Tornado.jpg",
+    stock:"10"
   },
 ];
 
